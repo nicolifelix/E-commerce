@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[RSpec Documentation](https://rspec.info/)
 
-Things you may want to cover:
+[Shoulda Matchers Documentation](https://github.com/thoughtbot/shoulda-matchers)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Factory Bot Documentation](https://github.com/thoughtbot/factory_bot)
