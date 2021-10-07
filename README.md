@@ -1,4 +1,6 @@
 
+📚 [Rails Documentation](https://guiarails.com.br/)
+
 📚 [RSpec Documentation](https://rspec.info/)
 
 📚 [Shoulda Matchers Documentation](https://github.com/thoughtbot/shoulda-matchers)

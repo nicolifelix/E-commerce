@@ -8,3 +8,5 @@ FactoryBot.define do
     video_board { "GeForce X" }
   end
 end
+
+
